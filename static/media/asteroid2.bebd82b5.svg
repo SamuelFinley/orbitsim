@@ -16,7 +16,7 @@
    version="1.1"
    id="svg852"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="asteroid.svg">
+   sodipodi:docname="asteroid2.svg">
   <defs
      id="defs846" />
   <sodipodi:namedview
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="254.74021"
-     inkscape:cy="393.66789"
+     inkscape:zoom="5.6"
+     inkscape:cx="106.8501"
+     inkscape:cy="230.89654"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,23 +57,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-169.99999)">
-    <g
-       transform="matrix(1.5625102,0,0,1.5625002,-33.85352,-133.62692)"
-       id="g4475">
-      <ellipse
-         ry="40.51482"
-         rx="40.514816"
-         cy="234.96118"
-         cx="62.30611"
-         id="path1397"
-         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.25036597;stroke-miterlimit:4;stroke-dasharray:2.00292785, 0.25036598;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         r="27.766834"
-         cy="234.96118"
-         cx="62.30611"
-         id="path3827"
-         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.34633332;stroke-miterlimit:4;stroke-dasharray:2.77066663, 0.34633333;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
     <circle
        style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.35066831;stroke-miterlimit:4;stroke-dasharray:2.80534657, 0.35066831999999998;stroke-dashoffset:0;stroke-opacity:1"
        id="path4498"
@@ -5281,7 +5264,7 @@
        y="0"
        width="100%"
        height="100%"
-       transform="translate(-7.773059,28.564361)" />
+       transform="translate(-11.448015,22.751249)" />
     <use
        id="use5656"
        inkscape:spray-origin="#path4498"
@@ -5290,7 +5273,7 @@
        y="0"
        width="100%"
        height="100%"
-       transform="translate(-7.3644975,28.404635)" />
+       transform="translate(-7.5872873,26.244033)" />
     <use
        id="use5658"
        inkscape:spray-origin="#path4498"
@@ -5362,7 +5345,7 @@
        y="0"
        width="100%"
        height="100%"
-       transform="translate(-5.8549947,28.074397)" />
+       transform="translate(-5.5939931,32.134749)" />
     <use
        id="use5674"
        inkscape:spray-origin="#path4498"
@@ -10519,7 +10502,7 @@
        y="0"
        width="100%"
        height="100%"
-       transform="translate(-5.8790689,29.403357)" />
+       transform="translate(-2.5293783,35.811409)" />
     <use
        id="use6820"
        inkscape:spray-origin="#path4498"
@@ -11428,7 +11411,7 @@
        y="0"
        width="100%"
        height="100%"
-       transform="translate(-8.5883998,29.820677)" />
+       transform="translate(-12.731077,24.809373)" />
     <use
        id="use7022"
        inkscape:spray-origin="#path4498"
@@ -12860,5 +12843,84 @@
        width="100%"
        height="100%"
        transform="translate(110.15032,34.093777)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14162"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:16px;line-height:0.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion14164"><rect
+           id="rect14166"
+           width="67.276199"
+           height="16.438616"
+           x="6.2847757"
+           y="227.47975" /></flowRegion><flowPara
+         id="flowPara14168" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:0.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.9399648"
+       y="233.92438"
+       id="text14172"><tspan
+         sodipodi:role="line"
+         id="tspan14170"
+         x="2.9399648"
+         y="235.55322"
+         style="stroke-width:0.26458332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14178"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:0.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.0045215,171.46998)"><flowRegion
+         id="flowRegion14180"
+         style="fill:#ffffff;fill-opacity:1"><rect
+           id="rect14182"
+           width="74.751289"
+           height="30.304579"
+           x="12.626906"
+           y="234.78546"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="line-height:1"
+         id="flowPara17623" /><flowPara
+         id="flowPara14186"
+         style="line-height:1" /><flowPara
+         id="flowPara14188"
+         style="line-height:1" /><flowPara
+         id="flowPara14190"
+         style="line-height:1" /><flowPara
+         id="flowPara14192"
+         style="line-height:1">Belt</flowPara></flowRoot>    <g
+       id="g17645">
+      <g
+         id="g4475"
+         transform="matrix(1.5625102,0,0,1.5625002,-33.85352,-133.62692)">
+        <ellipse
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.12799957;stroke-miterlimit:4;stroke-dasharray:1.02399659,0.12799957;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1397"
+           cx="62.30611"
+           cy="234.96118"
+           rx="40.514816"
+           ry="40.51482" />
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.12799957;stroke-miterlimit:4;stroke-dasharray:1.02399659,0.12799957;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3827"
+           cx="62.30611"
+           cy="234.96118"
+           r="27.766834" />
+      </g>
+      <text
+         id="text17635"
+         y="236.5238"
+         x="1.1811748"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="line-height:1;fill:#ffffff;stroke-width:0.26458332"
+           y="236.5238"
+           x="1.1811748"
+           id="tspan17633"
+           sodipodi:role="line">Asteroid</tspan><tspan
+           id="tspan17637"
+           style="line-height:1;fill:#ffffff;stroke-width:0.26458332"
+           y="240.75714"
+           x="1.1811748"
+           sodipodi:role="line">Belt</tspan></text>
+    </g>
   </g>
 </svg>
